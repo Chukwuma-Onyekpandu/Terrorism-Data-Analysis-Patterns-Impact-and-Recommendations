@@ -1,7 +1,7 @@
 # Terrorism Data Analysis Dashboard (West & Central Africa)
 
 This project analyzes terrorism incidents across six African countries using Excel-based data visualizations. The analysis uncovers patterns in fatalities, injuries, perpetrators, target types, and attack methods over several decades, offering actionable insights for policymakers and security stakeholders.
-
+![Dashboard](https://github.com/Chukwuma-Onyekpandu/Terrorism-Data-Analysis-Patterns-Impact-and-Recommendations/blob/main/Vephla%20Excel%20Dashboard%206%20Corrected.png)
 ## 🌍 Countries Covered
 - Nigeria
 - Cameroon
