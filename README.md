@@ -47,18 +47,5 @@ This project analyzes terrorism incidents across six African countries using Exc
 - Enhance regional counterterrorism cooperation across borders.
 - Train security forces for high-impact bombing and assault responses.
 
-## 📂 Folder Structure
-```
-📁 terrorism-dashboard/
-├── 📊 Visualizations/
-├── 📄 terrorism_analysis_report.docx
-├── 📁 data/
-│   └── terrorism_data.xlsx
-└── README.md
-```
-
-## 📄 License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## 🤝 Contributions
 Contributions are welcome! Feel free to fork this repo and submit a pull request with improvements, added insights, or dashboard enhancements.
